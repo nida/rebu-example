@@ -1,1 +1,1 @@
-# Example Ruby app
+# Ruby Example
